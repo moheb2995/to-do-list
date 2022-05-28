@@ -1,0 +1,24 @@
+.button-container {
+  background-color: rebeccapurple;
+  /* display: f; */
+}
+
+.container {
+  border: 5px solid black;
+  padding: 4px;
+}
+
+.todo {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background-color: rgb(195, 0, 195);
+  color: yellow;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h1{
+  text-align: center;
+  
+}
